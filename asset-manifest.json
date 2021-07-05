@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tinyuliu/Keeper-App/static/css/main.873772b0.chunk.css",
+    "main.js": "/tinyuliu/Keeper-App/static/js/main.c7819d37.chunk.js",
+    "main.js.map": "/tinyuliu/Keeper-App/static/js/main.c7819d37.chunk.js.map",
+    "runtime-main.js": "/tinyuliu/Keeper-App/static/js/runtime-main.62352d7a.js",
+    "runtime-main.js.map": "/tinyuliu/Keeper-App/static/js/runtime-main.62352d7a.js.map",
+    "static/js/2.8e26ec24.chunk.js": "/tinyuliu/Keeper-App/static/js/2.8e26ec24.chunk.js",
+    "static/js/2.8e26ec24.chunk.js.map": "/tinyuliu/Keeper-App/static/js/2.8e26ec24.chunk.js.map",
+    "static/js/3.c2fb5221.chunk.js": "/tinyuliu/Keeper-App/static/js/3.c2fb5221.chunk.js",
+    "static/js/3.c2fb5221.chunk.js.map": "/tinyuliu/Keeper-App/static/js/3.c2fb5221.chunk.js.map",
+    "index.html": "/tinyuliu/Keeper-App/index.html",
+    "static/css/main.873772b0.chunk.css.map": "/tinyuliu/Keeper-App/static/css/main.873772b0.chunk.css.map",
+    "static/js/2.8e26ec24.chunk.js.LICENSE.txt": "/tinyuliu/Keeper-App/static/js/2.8e26ec24.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62352d7a.js",
+    "static/js/2.8e26ec24.chunk.js",
+    "static/css/main.873772b0.chunk.css",
+    "static/js/main.c7819d37.chunk.js"
+  ]
+}
